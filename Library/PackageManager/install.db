@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.cesium.unity": {
+      "tarball": {
+        "hash": "ca899089cbcf",
+        "mtime": 1700327889012,
+        "size": 188690189,
+        "localPath": "C:\\Users\\Admin\\Downloads\\com.cesium.unity-1.6.4.tgz"
+      }
+    },
+    "com.google.ar.core.arfoundation.extensions": {
+      "tarball": {
+        "hash": "983020f4ae54",
+        "mtime": 1700327375798,
+        "size": 2614384,
+        "localPath": "C:\\Users\\Admin\\Downloads\\arcore-unity-extensions-1.40.0.tgz"
+      }
+    }
+  }
+}
